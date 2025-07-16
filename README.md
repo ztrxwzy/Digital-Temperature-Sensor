@@ -1,2 +1,5 @@
-# Digital-Temperature-Sensor
-A home project to measure the ambient temperature with an LM35DZ sensor and display it on an LCD screen. The system also changes color using LEDs depending on whether the room is very hot or very cold.
+# 🌡️ Project: Digital Thermometer with Arduino UNO
+
+An environmental temperature measurement system with **16x2 LCD display** and **LEDs** indicators, all powered by an Arduino UNO.
+This was my first project in electronics, and it marked the beginning of my journey into hardware.
+**Zero experience, but a thousand desires** 🚀.
