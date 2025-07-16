@@ -8,5 +8,5 @@ This was my first project in electronics, and it marked the beginning of my jour
 
 - Reads the ambient temperature using a **LM35DZ sensor**.
 - Displays temperature on **16x2 LCD display** with I2C module.
-- Uses **LEDs** to alert on temperatures out of normal range.
+- It uses **LEDs** to alert you to temperatures outside the range: a green LED if the room temperature is good, and a red LED if it is too hot or too cold inside the room.
 - It is intended to be portable and, in the future, powered by **rechargeable battery**.
