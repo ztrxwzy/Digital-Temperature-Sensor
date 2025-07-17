@@ -5,7 +5,6 @@ This was my first project in electronics, and it marked the beginning of my jour
 **Zero experience, but a thousand desires** 🚀.
 
 ---
-
 ## 📸 Prototype Preview
 
 ![20250716_181344](https://github.com/user-attachments/assets/be82a18a-bdde-48db-a4b9-88b9b9359a53)
@@ -27,7 +26,6 @@ This was my first project in electronics, and it marked the beginning of my jour
   ![LEDs Testing](https://github.com/user-attachments/assets/6ddd5f66-4a27-431b-8e5e-96f7f37df247)
 
 ---
-
 ## 🛠️ Components
 
 | Component         | Quantity | Description                           |
