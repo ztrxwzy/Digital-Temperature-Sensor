@@ -4,9 +4,16 @@ An environmental temperature measurement system with **16x2 LCD display** and **
 This was my first project in electronics, and it marked the beginning of my journey into hardware.
 **Zero experience, but a thousand desires** 🚀.
 
+## 📸 Prototype Preview
+
+![20250716_181344](https://github.com/user-attachments/assets/be82a18a-bdde-48db-a4b9-88b9b9359a53)
+
 ## 🔧 What does this project do?
 
 - Reads the ambient temperature using a **LM35DZ sensor**.
+
 - Displays temperature on **16x2 LCD display** with I2C module.
+  
 - It uses **LEDs** to alert you to temperatures outside the range: a green LED if the room temperature is good, and a red LED if it is too hot or too cold inside the room.
+  
 - It is intended to be portable and, in the future, powered by **rechargeable battery**.
