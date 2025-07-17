@@ -4,9 +4,13 @@ An environmental temperature measurement system with **16x2 LCD display** and **
 This was my first project in electronics, and it marked the beginning of my journey into hardware.
 **Zero experience, but a thousand desires** 🚀.
 
+---
+
 ## 📸 Prototype Preview
 
 ![20250716_181344](https://github.com/user-attachments/assets/be82a18a-bdde-48db-a4b9-88b9b9359a53)
+
+---
 
 ## 🔧 What does this project do?
 
@@ -21,3 +25,20 @@ This was my first project in electronics, and it marked the beginning of my jour
 - It uses **LEDs** to alert you to temperatures outside the range: a green LED if the room temperature is good, and a red LED if it is too hot or too cold inside the room.
 
   ![LEDs Testing](https://github.com/user-attachments/assets/6ddd5f66-4a27-431b-8e5e-96f7f37df247)
+
+---
+
+## 🛠️ Components
+
+| Component         | Quantity | Description                           |
+|-------------------|----------|---------------------------------------|
+| Arduino UNO R3    | 1        | Main microcontroller                  |
+| LM35DZ            | 1        | Temperature sensor                    |
+| LCD 16x2 + I2C    | 1        | Display to show temperature           |
+| LED red / gren    | 2        | Visual indicators                     |
+| Resistors 220Ω    | 1        | To limit current to the LEDs          |
+| Wires Dupont      | Various  | Connection between components         |
+| Protoboard        | 1        | For seamless assembly                 |
+| USB source        | 1        | Temporary feeding                     |
+
+  
