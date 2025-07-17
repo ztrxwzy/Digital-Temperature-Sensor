@@ -21,5 +21,3 @@ This was my first project in electronics, and it marked the beginning of my jour
 - It uses **LEDs** to alert you to temperatures outside the range: a green LED if the room temperature is good, and a red LED if it is too hot or too cold inside the room.
 
   ![LEDs Testing](https://github.com/user-attachments/assets/6ddd5f66-4a27-431b-8e5e-96f7f37df247)
-
-- It is intended to be portable and, in the future, powered by **rechargeable battery**.
