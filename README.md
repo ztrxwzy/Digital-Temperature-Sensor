@@ -42,3 +42,4 @@ This was my first project in electronics, and it marked the beginning of my jour
 ---
 
 ## ⚙️ Main Connections
+<img width="1920" height="854" alt="Sensor de Temperatura" src="https://github.com/user-attachments/assets/0110f37f-2d05-4a79-84a1-3a5012a5eac7" />
