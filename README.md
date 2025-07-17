@@ -33,7 +33,7 @@ This was my first project in electronics, and it marked the beginning of my jour
 | Arduino UNO R3    | 1        | Main microcontroller                  |
 | LM35DZ            | 1        | Temperature sensor                    |
 | LCD 16x2 + I2C    | 1        | Display to show temperature           |
-| LED red / gren    | 2        | Visual indicators                     |
+| LED red / green   | 2        | Visual indicators                     |
 | Resistors 220Ω    | 1        | To limit current to the LEDs          |
 | Wires Dupont      | Various  | Connection between components         |
 | Protoboard        | 1        | For seamless assembly                 |
