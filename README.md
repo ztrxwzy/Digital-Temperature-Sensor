@@ -39,4 +39,6 @@ This was my first project in electronics, and it marked the beginning of my jour
 | Protoboard        | 1        | For seamless assembly                 |
 | USB source        | 1        | Temporary feeding                     |
 
-  
+---
+
+## ⚙️ Main Connections
