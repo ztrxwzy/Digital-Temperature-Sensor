@@ -11,9 +11,15 @@ This was my first project in electronics, and it marked the beginning of my jour
 ## 🔧 What does this project do?
 
 - Reads the ambient temperature using a **LM35DZ sensor**.
+
   ![LM35DZ](https://github.com/user-attachments/assets/7ffa30e3-41ff-4e75-8da9-e4e4d72a0941)
+
 - Displays temperature on **16x2 LCD display** with I2C module.
-          ![Display](https://github.com/user-attachments/assets/52ad8500-adb1-4746-98d7-10b0e4fb25cf)
+
+  ![Display](https://github.com/user-attachments/assets/52ad8500-adb1-4746-98d7-10b0e4fb25cf)
+
 - It uses **LEDs** to alert you to temperatures outside the range: a green LED if the room temperature is good, and a red LED if it is too hot or too cold inside the room.
+
   ![LEDs Testing](https://github.com/user-attachments/assets/6ddd5f66-4a27-431b-8e5e-96f7f37df247)
+
 - It is intended to be portable and, in the future, powered by **rechargeable battery**.
